@@ -1,0 +1,26 @@
+{
+  "name": "aru",
+  "version": "3.10.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tope",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": "khguy",
+  "keywords": [
+    "Tope"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://raw.githubusercontent.com/aruijevu/mystud/master/README.md"
+  },
+  "bugs": {
+    "url": "https://github.com/aruijevu/lagosstudy1/issues"
+  },
+  "homepage": "https://github.com/aruijevu/lagosstudy1#readme"
+}
